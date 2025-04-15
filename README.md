@@ -6,7 +6,7 @@ A complete Proof of Concept for copying data from Azure Data Lake Storage Gen2 t
 
 ```plaintext
 Azure Data Lake Gen2 (CSV/Parquet) → ADF Pipeline → Azure SQL Database
-
+```
 ---
 
 ## ✅ Step-by-Step Guide
