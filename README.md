@@ -1,6 +1,6 @@
 # Azure Data Factory PoC: Data Lake to SQL
 
-A complete Proof of Concept for copying data from Azure Data Lake Storage Gen2 to Azure SQL Database using Azure Data Factory. This project includes scripts, templates, and a detailed setup guide.
+A complete Proof of Concept for copying data from Azure Data Lake Storage Gen2 to Azure SQL Database using Azure Data Factory.
 
 ## Architecture Overview
 
