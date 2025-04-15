@@ -130,10 +130,3 @@ SELECT * FROM dbo.Employees;
 
 ---
 
-## 💡 Contribution
-Feel free to open issues or submit PRs if you'd like to contribute or enhance this PoC.
-
----
-
-## 📄 License
-MIT License
